@@ -44,4 +44,4 @@ contents.
 
 ## Formatting
 
-*   [Formatter](./foramtter.md): How the formatter works, and how to debug it.
+*   [Formatter](./formatter.md): How the formatter works, and how to debug it.
